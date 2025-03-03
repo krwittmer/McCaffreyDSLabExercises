@@ -1,4 +1,3 @@
-using McCaffrey.DataScienceLab;
 
 namespace McCaffreyLRL.Tests
 {
