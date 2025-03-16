@@ -8,6 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NaiveBayesRegressionProgram.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="NaiveBayesRegressionProgram.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\LabLibrary\McCaffreyDSLibrary.csproj" />
   </ItemGroup>
 

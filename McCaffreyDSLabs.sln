@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McCaffreyLabsConsoleApp", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1DA38742-3C5B-475A-A717-8A17A71193CC}"
 	ProjectSection(SolutionItems) = preProject
+		LabData\train_poisson_200.txt = LabData\train_poisson_200.txt
+		LabData\test_poisson_40.txt = LabData\test_poisson_40.txt
 		LabData\wine_test_40.txt = LabData\wine_test_40.txt
 		LabData\wine_train_200.txt = LabData\wine_train_200.txt
 	EndProjectSection
